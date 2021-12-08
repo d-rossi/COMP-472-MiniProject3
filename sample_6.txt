@@ -1,0 +1,120 @@
+57.	hailed
+a.	judged
+b.	acclaimed
+c.	remembered
+d.	addressed
+b
+49.	principal
+a.	most
+b.	numerous
+c.	major
+d.	exceptional
+c
+56.	wildly
+a.	distinctively
+b.	mysteriously
+c.	abruptly
+d.	furiously
+d
+62.	sustained
+a.	prolonged
+b.	refined
+c.	lowered
+d.	analyzed
+a
+39.	hind
+a.	curved
+b.	muscular
+c.	hairy
+d.	rear
+d
+78.	bigger
+a.	steadier
+b.	closer
+c.	larger
+d.	better
+c
+36.	unmatched
+a.	unrecognized
+b.	unequaled
+c.	alienated
+d.	emulated
+b
+74.	figure
+a.	list
+b.	solve
+c.	divide
+d.	express
+b
+7.	urgently
+a.	typically
+b.	conceivably
+c.	tentatively
+d.	desperately
+d
+23.	make
+a.	earn
+b.	print
+c.	trade
+d.	borrow
+a
+19.	furnish
+a.	supply
+b.	impress
+c.	protect
+d.	advise
+a
+41.	hastily
+a.	hurriedly
+b.	shrewdly
+c.	habitually
+d.	chronologically
+a
+77.	marketed
+a.	frozen
+b.	sold
+c.	sweetened
+d.	diluted
+b
+34.	discrepancies
+a.	weights
+b.	deposits
+c.	wavelengths
+d.	differences
+d
+13.	hasten
+a.	permit
+b.	determine
+c.	accelerate
+d.	accompany
+c
+79.	roots
+a.	origins
+b.	rituals
+c.	cure
+d.	function
+a
+51.	built
+a.	constructed
+b.	proposed
+c.	financed
+d.	organized
+a
+31.	levied
+a.	imposed
+b.	believed
+c.	requested
+d.	correlated
+a
+4.	prominent
+a.	battered
+b.	ancient
+c.	mysterious
+d.	conspicuous
+d
+10.	concisely
+a.	powerfully
+b.	positively
+c.	freely
+d.	succinctly
+d
